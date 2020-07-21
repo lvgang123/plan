@@ -1,0 +1,4 @@
+main work content：
+first:	Learning and proficiency in matplotlib and Numpy
+sencond:	introduction to Keras
+third:	understand the first charpter of Keras actual combat

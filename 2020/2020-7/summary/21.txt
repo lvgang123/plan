@@ -1,0 +1,38 @@
+Main task：
+first:	configure Keras and write a blog
+second:	looking for machine learning theory course and conducting theoretical studies
+third:	introduction to Keras ，familiarity with matplotlib and numpy 
+
+
+detail:
+first:	looking for csdn
+
+second:	in-depth undestanding of the history of artificial intellifgence and an 
+	introduction to deep learning(mainly understand neural network and 
+	deep learning frameworks)
+
+third:	
+--matplotlib--
+basic usage：plt.plot(x,y)
+figure:plt.figure()
+set axis
+legend
+label
+scatter plot
+histogram
+contour map
+3D figure
+subplot
+dynamic picture
+
+--Numpy--
+Attributes
+create array
+calculation
+generate random and matric operations
+index
+merge
+segmentation
+shallow copy and full copy
+
+
