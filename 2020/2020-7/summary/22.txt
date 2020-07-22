@@ -1,0 +1,33 @@
+Main task:
+first:	Electrical guide of placing machin
+second： 	study tensorflow to in-deep understanding Keras 
+
+detail:
+first:	standarfinzation of route layout
+second:	
+--tenserflow--
+step1：prepare data
+step2：build network
+step3：optimize the network
+step4：application network
+
+current progress：step1 and step2
+master the overall framework of the fully connected model and an application example
+
+API：
+tf.constant		tf.convert_to_tensor
+tf.random.normal		tf.random.truncated_normal
+tf.random.uniform		tf.cast
+tf.reduce_min		tf.reduce_max
+tf.reduce_mean		tf.reduce_sum
+tf.variable			tf.add/substract/multiply/divide
+tf.square/pow/sqrt		tf.matmul
+tf.data.Dataset.from_tensor_slices
+tf.GradientTape		enmuerate
+tf.one_hot			tf.nn.softmax
+assign_sub		tf,argmax
+tf.where()			np.random,Randomstate,rand(维度)
+np.vstack/hstack		np.mgrid
+x.rave			np.c_
+
+key concept：损失函数、反向传播、激活函数、学习率、指数衰减学习率
