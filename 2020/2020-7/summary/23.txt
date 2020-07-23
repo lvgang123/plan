@@ -1,0 +1,30 @@
+Main task:
+first:	thirdth and fourth chapter at tensorflow of theory
+sencond:	debuging at placing machine
+
+detial:
+--RJ placing machine--
+optimize of motor origin return
+Relay erro
+
+--tensorflow--
+Activation function:	Sigmoid	Tanh	Relu	Leaky Relue	(main:	Relue)
+Loss function:	MSE	CE	
+Underfiting and overfiting
+overfiting:	L1	L2
+optiomization function:	SGD	SGDM	Adagrad	RMSProp	Adam	(main:	Adam)
+
+
+--tf.keras--
+step:	import	Sequential	compile	fit	summary
+Sequential:	Flatten	Dense	卷积层	LSTM
+Dataset:	MNIST	Fashion_mnist
+
+Function extension:
+one:	read own data
+two:	data generator
+three：	show_augment
+four:	save model(get history)
+five:	get parameter from txt and write to txt
+six:	acc/loss show in plt
+seven:	application of model

@@ -1,0 +1,4 @@
+main work content:
+first:	tensorflow笔记1-4章代码重现
+second:	卷积神经网络学习
+third:	RJ摆盘机指导工作
