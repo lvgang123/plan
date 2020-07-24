@@ -16,9 +16,11 @@ optiomization function:	SGD	SGDM	Adagrad	RMSProp	Adam	(main:	Adam)
 
 
 --tf.keras--
-step:	import	Sequential	compile	fit	summary
+step:	import	Sequential  compile	compile	fit	summary
 Sequential:	Flatten	Dense	卷积层	LSTM
+Compile:  optimizer loss  metrics
 Dataset:	MNIST	Fashion_mnist
+
 
 Function extension:
 one:	read own data
