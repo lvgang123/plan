@@ -1,0 +1,5 @@
+main work content:
+first:	tensorflow charpter five
+second:	Internal: Invoking GPU asm compilation is supported on Cuda non-Windows platforms only
+	Relying on driver to perform ptx compilation. it is very terrible, shite....
+third:	install confige ubuntu,o no, it make me crumble

@@ -1,0 +1,4 @@
+main work content:
+first:	tensorflow all and review again
+sencond:	RJ placing machine debug
+third:	review opencv + python

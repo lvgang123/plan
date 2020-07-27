@@ -1,0 +1,33 @@
+oh!My gad .. ..... terrible weekend
+
+Main task:
+first:	study chapter five of tensorflow
+sencond:	solve efficiency problems about tensorflow GPU (menory usage)
+third: 	confige ubuntu OS
+
+detail:
+--tensorflow--
+神经网络概念问题：
+卷积	感受野（Receptive Field）	全零填充（padding）
+批标准化（BN）	池化（pooling）	舍弃（Dropout）
+
+卷积神经网络就是借助卷积核提取特征（一层或多层）后，讲特征送入全连接网络的一种方法
+
+CNN-model: CBAPD(特征提取器)
+eg:
+model = tf.keras.models.Sequential([
+C conv2D(filters=6,kernel_size=(5.5),padding = 'same',
+B BatchNormalization(),
+A Activation('relu')
+P MaxPool2D(pool_size=(2,2),stride=2,paddig='same'
+D Dropout(0.2)
+
+Classic model:
+LeNet	AlexNet	VGGNet	InceptionNet	ResNET
+
+--Ubuntu--
+if you are not familiar, please use windows os and get familiar through VMware
+
+watch Memory-Usage see csdn bookmarks
+
+
