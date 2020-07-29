@@ -1,0 +1,4 @@
+main work content:
+first:	review tensorflow
+sencond:	using tensorflow create project about keras2-5 
+third:	tensorflow2.0  at tencent classromm

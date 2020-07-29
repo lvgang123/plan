@@ -1,4 +1,4 @@
 main work content:
 first:	tensorflow all and review again
-sencond:	RJ placing machine debug
+sencond:	RNN
 third:	review opencv + python
