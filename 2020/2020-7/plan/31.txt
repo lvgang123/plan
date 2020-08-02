@@ -1,0 +1,3 @@
+main work content:
+first:	DC线三合一成型机
+sencond:	tensorflow model optimize

@@ -1,0 +1,13 @@
+main task:
+first:	building my fist CNN and optimize it
+sencond:	DC线三合一成型机
+third:	dine together
+
+---CNN model---
+过拟合数据完全没用，神经网络应该首先考虑过拟合问题
+review RNN
+截断高斯分布概念理解
+模型搭建过程中应该考虑数据类型问题
+数据增强的使用理解
+model predict
+other problem see blog

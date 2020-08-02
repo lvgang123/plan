@@ -1,0 +1,3 @@
+main work content:
+first：	discern antenna length
+sencond:	opencv+py review and record
