@@ -1,0 +1,5 @@
+main work content:
+first:	VS(c++)+python+opencv, test it
+second:	famliar with test_han project 
+third:	review python+opencv_enhance
+end:	study next charpter of opencv
