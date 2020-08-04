@@ -1,0 +1,6 @@
+main task:
+first:	Joint programming about c++ Python opencv halcon
+sencond: 	python use dll(c++) some parameter passing(Mat and struct)
+third:	rebuild camera module（only c++）
+
+---see blog---

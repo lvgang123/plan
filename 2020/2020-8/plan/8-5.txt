@@ -1,0 +1,4 @@
+main work content:
+first:	famliar with test_han project 
+second:	review python+opencv_enhance
+end:	study next charpter of opencv
