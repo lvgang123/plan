@@ -1,0 +1,4 @@
+main work content:
+first:	python use dahua camera and achieve concurrent threads
+second:	examinate c++ use python,py
+end:	pyqt

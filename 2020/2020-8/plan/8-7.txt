@@ -1,0 +1,4 @@
+main work content:
+first:	confige new computer
+second:	c++ use camera of concurrent threads
+end:	review python opencv

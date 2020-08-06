@@ -1,0 +1,4 @@
+main task:
+first:	python and c++ combined use
+sencond: 	camera of dahua record
+third:	new computer confige
