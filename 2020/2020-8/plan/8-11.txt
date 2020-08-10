@@ -1,0 +1,4 @@
+main work content:
+first:	review opencv about python
+sencond:	develop process about PCB project
+end:	initial implementation architecture of PCB project

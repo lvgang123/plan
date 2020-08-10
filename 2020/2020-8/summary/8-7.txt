@@ -1,0 +1,3 @@
+main task:
+first:	new computer config and file copy
+sencond:	think to PCB
