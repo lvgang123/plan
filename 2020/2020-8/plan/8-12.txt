@@ -1,0 +1,4 @@
+main work content:
+first:	review opencv only two hours
+sencond:	review Halcon
+end:	develop process about PCB project

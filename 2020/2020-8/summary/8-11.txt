@@ -1,0 +1,9 @@
+main task:
+first:	 review opencv(py)
+second:	some trivia about work
+
+detail:
+opencv base
+function extension of RJ planning machine 
+determine the robot brand
+debug welding platform 
