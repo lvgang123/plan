@@ -1,0 +1,15 @@
+main task:
+first:	review opencv(py) and read actual project
+second:	c++ use python file  and test mat_data transfer method
+
+detial:
+---opencv---
+1.base operation:	阈值  形态学变换 梯度计算 滤波 图像金字塔 
+		轮廓检测  模板匹配 直方图（直方图均衡化、傅里叶变换）
+2.actual project:	信用卡数字识别：应用模板匹配和轮廓查找等操作
+		文档扫描：重点在于透视转换和坐标操作
+
+----c++ use opencv----
+变量转换需要转换为元组进行传递
+图像类型Mat转换操作耗时严重，转换可以通过指针取值传递给元组列表
+大数据传递最好使用磁盘直接传，然后直接传一个路径就好，其中路径为char*(需要转换)
