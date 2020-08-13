@@ -1,0 +1,3 @@
+main work content:
+first:	review halcon
+second:	develop process about PCB project

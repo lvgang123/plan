@@ -1,0 +1,10 @@
+main task:
+first:	review opencv(py)
+second:	study OpenCV(py)
+detial:
+---opencv---
+1.图像特征		：Harris——角点检测		sift——特征提取	Brute-Force——特征匹配
+2.背景建模		：帧差法——两张图片作差	混合高斯模型——常用
+3.光流估计		：用于图像动态分析，比如目标跟踪
+4.人脸识别		：了解人脸特征提取方法
+5.坐标转换		：使用多点随机抽样已知算法获取透视矩阵，并将点变幻为透视后点坐标
