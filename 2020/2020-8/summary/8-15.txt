@@ -1,0 +1,12 @@
+main task:
+first:	fix calibration
+second:	review halcon
+
+-----fix calibration------
+1.深入理解相机标定，opencv实现角点检测的标定法（效果还行），圆点的标定（效果差），标定得到的参数为相机内参
+内参包含畸变系数和畸变中心偏移+相机内参矩阵（f:相机像素距离和焦距有关+畸变中心）
+2.确定内参标定方案：OpenCV进行相机内参变换+外参标定采用透视变换
+
+----halcon----
+1.深入了解机器视觉
+2.halcon视觉中文翻译文档

@@ -1,0 +1,3 @@
+main work content:
+first:	halcon review
+second:	fix pcb_project 

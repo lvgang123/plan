@@ -1,0 +1,20 @@
+main task:
+first:	using halcon to get picture from dahua camera(in-depth study)
+second:	review halcon
+end:	research picture calibration---------camera in-parameter calibretion
+
+-----dahua camera------
+1.测试halcon直接使用大华SDK进行相机采图方法
+2.相机参数设置
+3.相机抓图（45-65）、图片写入磁盘（55）、halcon图片读取（10）
+	halcon图片转换为Mat(不同操作系统转换函数有区别）（10）等性能测试
+
+----halcon----
+1.深入了解机器视觉
+2.halcon助手使用（灰度直方图、特征提取器等）
+3.halcon平台熟悉
+
+-----calibration------
+1.平时使用的相机镜头畸变极小，在一两个像素范围以内，如果不是特殊场合没必要使用畸变矫正
+2.halcon自带标定不是特别清楚有待进一步学习
+3.了解标定基本原理及OpenCV图像标定
