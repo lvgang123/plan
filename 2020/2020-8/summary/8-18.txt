@@ -1,0 +1,11 @@
+main task:
+first:	optimize pcb_halcon of algorithm
+second:	wrapper function of image processing (halcon and cpp)
+
+-----optimize halcon------
+1.select temp_model ,it shuold standing by xld_clear and rotate_clear
+2.整合模板识别方案
+
+----wrapper function----
+1.halcon只有两种数据类型，对一些数据处理和传入时应该进行数据转换，详情参考代码
+2.design wrapper function program

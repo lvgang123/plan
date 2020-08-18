@@ -1,0 +1,16 @@
+main task:
+first:	get image of pcb 、han_xian、han_points、calibration
+second:	achieve an algorithm about pcb find and position
+end:	study halcon
+
+-----get calibration------
+1.内参标定并不进行倾斜转换，倾斜应该通过外参进行转换（外参就是世界坐标系到相机坐标系转换矩阵）
+
+----halcon algorithm----
+1.实现了pcb板子的有无检测，实现方法主要是二值图形态学操作
+2.将得到的二值图进行模板查找定位，整体流程耗时10ms左右
+
+----study halcon-----
+1.halcon数据类型包括：object:图形（image,region,xld） control:htuple,int,double,string...
+2.region:操作
+3.xld:轮廓的理解和操作，操作方法与region类似但是API不同

@@ -1,0 +1,3 @@
+main work content:
+first:	halcon study about image and htupe
+second:	prefect pcb algorithm and project structure
