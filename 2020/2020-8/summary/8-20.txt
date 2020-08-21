@@ -1,0 +1,19 @@
+main task:
+first:	package of halcon core algorithm 
+second:	package of halcon show algorithm
+end:	package of halcon camera 
+
+-----halcon core------
+1.查找目标是否存在
+2.将输入图像进行模板形状匹配得到模板在图像中
+3.在原图显示匹配到的模板
+4.对PCB两个定位孔识别
+
+----halcon show----
+1.halcon窗口创建、图像展示、窗口关闭、比例大小颜色设置
+2.保存当前窗体所有像素到指定路径
+
+-----halcon camera ------
+1.构造函数中的相机连接，包括灰度读取模式
+2.相机白平衡、曝光时间设置
+3.图像抓取封装

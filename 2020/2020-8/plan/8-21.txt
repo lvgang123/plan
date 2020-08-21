@@ -1,0 +1,3 @@
+main work content:
+first:	build child thread to deal image
+second:	build cv package

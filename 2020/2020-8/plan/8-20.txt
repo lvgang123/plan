@@ -1,0 +1,3 @@
+main work content:
+first:	build pcb project as temp progress
+second:	pcb project test

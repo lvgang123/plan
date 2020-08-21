@@ -1,0 +1,11 @@
+main task:
+first:	archive halcon on qt
+second:	creacte ui about image temp progress
+
+-----halcon on qt------
+1.和OpenCV链接一样
+2.整合模板识别方案
+
+----temp progress----
+1.创建图像处理模板，以后界面固定
+2.vs2015和vs2019的兼容，其中主要是对rc.exe的系统配置
