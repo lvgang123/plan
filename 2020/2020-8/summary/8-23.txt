@@ -1,0 +1,14 @@
+main task:
+first:  	build child thread to deal image
+sencond:	package of rotate_tran module
+third:	build login module
+fourth:	solve the problems of program crash due to thread child can't drop out when mainwindow drop out
+	and cv and halcon is erro
+end:	design plan of Overall program flow and calibration moudle
+
+---detail----
+1.完成图像处理线程的建立，位置1,2并行设计，1为定时循环，2位标志触发循环
+2.以中心点旋转变换得到最终点计算模块
+3.登录模块，增加了登录权限级别，解决了登录bug（按下esc键进入界面问题）
+4.界面退出前关闭子线程，同时延时mainwindow的关闭。使用halcon后无法使用using cv,原因：命名存在冲突
+5.见笔记

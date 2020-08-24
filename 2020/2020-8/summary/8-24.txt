@@ -1,0 +1,11 @@
+main task:
+first:  	solve the problems of multiple pcb in view
+sencond:	package of PosSend
+third:	test tcp send and findHomography
+end:	feasibility analysis of the overall scheme
+
+---detail----
+1.通过阈值判断函数筛选，排除掉后一个PCB
+2.通过十个计时器循环调用，时发送结果时机械手立刻开始，并进行整体调度
+3.tcp需要串行发送，当接收到反馈后才能进行下一次发送
+4.联系机械手、相机等供应商判断项目可行性
