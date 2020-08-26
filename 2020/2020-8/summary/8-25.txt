@@ -1,0 +1,13 @@
+main task:
+first:  	carry out calibration model
+sencond:	test and carry out deal file
+
+---detail----
+---calibration---
+1.对指定图片进行标定识别，并对识别方法进行封装
+2.设定坐标转换、速度计算、标定参数等参数
+3.封装图像坐标到机械手位置的转换（机械手直接可用）
+
+---deal file---
+1.位置1速度计算，处理像素分配及计算
+2.后端处理搭建完成
