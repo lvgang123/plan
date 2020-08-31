@@ -1,0 +1,4 @@
+main work content:
+first:	PLC control conveyor belt
+second:	test image deal 1
+end:	commit code of visula2

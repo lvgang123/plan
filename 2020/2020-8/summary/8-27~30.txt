@@ -1,0 +1,29 @@
+main task:
+first:  	ui link and change the format of data storage
+sencond:	link and server model
+third:	auto calibration 
+end:	robot data reading
+
+---detail----
+---ui link and data format---
+1. 将各个控件进行变量关联，将各个按钮的动作进行关联封装
+2.更改以前的“-”格式（因为该格式和负号会造成歧义），最终改用“|”作为分隔符
+3.各个控件权限设置
+
+---tcp---
+1.将通讯中的服务端和客户端都放入线程，通讯时间会减少很多
+2.Cannot create children for a parent that is in a different thread.错误时解决方案，见博客（服务器和客户端）
+3.子线程接受不到信息，（在子线程循环时进行堵塞延时）
+
+---auto calibration----
+1.在子线程中进行，通过标志位打开位置12开始标定模块
+2.首先关闭图形处理线程，创建相机类进行采集图片，通过下一步按钮进行下一步移动和采集
+
+---robot data----
+1.机械手通讯（以机械手作为服务器端口号用机械手已有端口）
+2.机械手控制器接线操作
+3.各个指令的了解
+4.位置1数据发送时初始位置不确定问题解决
+5.tcp通讯时“”符号测试
+6.onparameter 指令在运动中IO控制
+7.拱形运动

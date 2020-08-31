@@ -1,0 +1,14 @@
+main task:
+first:  	PLC fx3u enet
+sencond:	test first step on image deal 
+
+---detail----
+---PLC fx3u enet---
+1.实现3U对电机控制
+2.熟悉使用FX3U-ENET-ADP模块，并连接昆仑通态进行测试
+3.电机运行中低频共振问题
+
+---test image deal---
+1.速度计算的测试与优化（多次检测为跳跃+列表数量限制=速度跳跃条件），并进一步验证转换函数正确性
+2.测试两个pcb在视野中情况，等待后期优化
+3.本次实验减小曝光时间，对各个参数影响较大。后期优化策略：整个halcon功能模块（快速计算参数）、熟悉各个参数影响效果
