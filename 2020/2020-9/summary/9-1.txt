@@ -1,0 +1,13 @@
+main task:
+first:  	summary of visual2 in xmind
+sencond:	halcon study in image and image_test
+
+---detail----
+---summary visual2---
+1.重新梳理和总结visual2代码
+2.列出visual2三套方案，目前使用的方案一
+3.安排下一步验证工作
+
+---halcon study---
+1.图像创建、赋值、获取、类型及类型转换
+2.halcon处理视频监控提取的小练习

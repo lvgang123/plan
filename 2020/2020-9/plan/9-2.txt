@@ -1,0 +1,4 @@
+main work content:
+first:	review robot information
+second:	use new robot
+end:	test link model
