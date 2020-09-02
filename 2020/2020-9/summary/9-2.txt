@@ -1,0 +1,12 @@
+main task:
+first:  	core logic and Program logic flow chart writing
+sencond:	code specification and thread modularization
+
+---detail----
+---logic---
+1.核心计算模块书写
+2.三个方案流程图编写
+
+---specification ---
+1.注释规范化
+2.命名和布局规范化
