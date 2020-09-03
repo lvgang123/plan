@@ -1,0 +1,14 @@
+main task:
+first:  	specification notes
+sencond:	interpret RotateTran model
+
+---detail----
+---specification ---
+1.对核心计算模块函数解读及注释
+2.类、源文件函数、头文件函数注释制定
+3.设置注释快捷键
+
+---RotateTran ---
+1.功能验证函数
+2.解读原理——将矢量分解计算
+
