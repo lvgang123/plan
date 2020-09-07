@@ -1,0 +1,3 @@
+main work content:
+first:	robot model on c++
+second:	test link robot

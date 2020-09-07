@@ -1,0 +1,13 @@
+main task:
+first:  	using robot and test link robot
+sencond:	training technician
+
+---detail----
+---robot---
+1.机械手简单使用
+2.机械手通讯测试
+
+---training technician---
+1.软件安装和使用
+2.标签解读
+
