@@ -1,0 +1,3 @@
+main work content:
+first:	test robot model
+second:	build and test auto calibration

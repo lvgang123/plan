@@ -1,0 +1,10 @@
+main task:
+first:  	test robot about take pcb and link
+sencond:	build robot model 
+
+---detail----
+---test robot---
+1.机械手过渡运动
+2.机械手启动、停止等测试
+3.robot模块编写
+
