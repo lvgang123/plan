@@ -1,0 +1,4 @@
+main work content:
+first:	test new product 
+second:	sort out pcb_take model
+end:	Automatic judgment the type about product

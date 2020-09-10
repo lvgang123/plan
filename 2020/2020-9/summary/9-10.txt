@@ -1,0 +1,10 @@
+main task:
+first:  	auto calibration
+sencond:	take pcb at first position
+
+---detail----
+---test robot---
+1.movj导致选择多圈的情况。使用MOVL可避免或者使用供应商提供最新版本的算法
+2.自动标定及计算、测试
+3.首次抓取协调调试及测试，实验成功
+
