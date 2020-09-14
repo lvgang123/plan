@@ -1,0 +1,17 @@
+main task:
+first:  	take pcb at sencond position
+sencond:	link robot on electric
+end:	PLC at sanrepian_daluosi
+
+---detail----
+---pcb at sencond position---
+1.sort out take pcb at sencond position
+2.sort out all logic on pcb
+
+---link electric---
+1.连接机械手电器连接线
+
+---PLC at sanrepian_daluosi---
+散热片一体机产能慢问题解决
+问题：产能时慢时快
+原因：螺丝机漏上螺丝逻辑出错（通过S变量改变查找），螺钉上料正确置位在螺钉判断是否漏料过程中导致始终认为漏料

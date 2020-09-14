@@ -1,0 +1,4 @@
+main work content:
+first:	bopian robot test
+second:	pcb test at sencond position
+end:	test all at pcb project
