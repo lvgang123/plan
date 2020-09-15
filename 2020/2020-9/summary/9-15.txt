@@ -1,0 +1,10 @@
+main task:
+first:  	second Calibration robot
+sencond:	all test pcb
+
+---detail----
+---second Calibration robot---
+1.各个函数测试，最终结果测试
+
+---all test pcb---
+1.下次一定小心机械手碰撞问题
