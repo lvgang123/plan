@@ -1,0 +1,12 @@
+main task:
+first:  	complete the project of take pcb
+sencond:	design flow at storage pcb and place pcb
+
+---detail----
+---complete the project---
+1.坐标的重新标定
+2.整体流程的测试，优化流程
+
+---design flow---
+1.存板流程设计
+2.机械手流程的模块化及重新设计
