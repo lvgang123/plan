@@ -1,0 +1,3 @@
+main work content:
+first:	test par about speed
+second:	achive all robot process

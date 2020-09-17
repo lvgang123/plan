@@ -1,0 +1,12 @@
+main task:
+first:  	design flow at all project on robot
+sencond:	The influence of conveyor belt speed on gripping
+
+---detail----
+---design flow---
+1.流程完善
+2.各个变量定义
+
+---influence of conveyor belt speed---
+1.传送带对抓取影响，计算参数优化
+2.优化抓板流程：向下时就开始跟随加速，相对运动速度为跟随速度，效果较好
