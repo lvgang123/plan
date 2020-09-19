@@ -1,0 +1,10 @@
+main task:
+first:  	The influence of conveyor belt speed on gripping
+sencond:	calibration robot due to robot moving
+
+---detail----
+---influence of conveyor belt speed---
+1.优化抓板流程：向下时就开始跟随加速，相对运动速度为跟随速度的1.1倍（理论上在1.15倍左右，经过实际测试1.1倍较为合适）
+
+---calibration robot---
+1.机械手将X和Y之间转换（机械手位置调换，为了放板位置确实）

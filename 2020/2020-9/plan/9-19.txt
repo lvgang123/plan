@@ -1,0 +1,3 @@
+main work content:
+first:	test par about speed on new coord
+second:	fixed pick position x
