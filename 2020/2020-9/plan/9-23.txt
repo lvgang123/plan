@@ -1,0 +1,3 @@
+main work content:
+first:	design bopian project
+second:	optimize pcb project about speed inflution and process inflution

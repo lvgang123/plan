@@ -1,0 +1,12 @@
+main task:
+first:  	storage and place pcb on robot
+sencond:	test different pcb takeing
+
+---detail----
+---storage and place---
+1.机械手取放流程、存板流程完善
+2.优化速度及加速度产生的误差，同时设计出解决方案
+
+---different pcb---
+1.不同的产品制作不同的模板，对halcon程序进行规范化
+2.测试所有的的产品，并进行调试
