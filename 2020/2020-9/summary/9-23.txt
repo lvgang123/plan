@@ -1,0 +1,10 @@
+main task:
+first:  	test pick project
+sencond:	optimize cord about pick
+---detail----
+--- pick project---
+1.拨片项目设计完善
+2.完成拨片项目的测试
+
+---optimize cord---
+1.视觉项目代码优化
