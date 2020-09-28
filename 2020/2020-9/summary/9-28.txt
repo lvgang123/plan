@@ -1,0 +1,23 @@
+main task:
+first:  	over pick project
+sencond:	design optimize cord 
+third:	cv calibration about camera
+end:	PLC about IPC machine
+
+---detail----
+--- pick project---
+1.项目最终测试
+2.整理项目
+
+---optimize cord---
+1.视觉项目代码优化设计
+
+---相机矫正---
+1.相机内参矫正代码解读
+2.发现圆函数，其中一个参数表示圆的对称和错开选项
+3.标定中实际坐标设定（设定后与标准的程序相差无几）
+
+---IPC打螺钉项目---
+1.项目标签优化
+2.电机模块的模块化
+3.触摸屏配方研究及设计
