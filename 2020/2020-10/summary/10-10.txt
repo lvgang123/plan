@@ -1,0 +1,12 @@
+main task:
+first:  	Complete publication of pcb project
+sencond:	using hechuan plc 
+
+---detail----
+---pcb project---
+1.完善PCB项目各个环节做好出版准备，其中包含操作人员便捷数据更改、位置一图像保存设置、45号产品引入
+2.机械手程序BUG修改及效率提升，放板报警逻辑完善、等待延时优化
+
+---using hechuan plc ---
+1.禾川PLC试用，ENET模块试用（无法连接触摸屏-由于ENET模块使用的是ModbusRTU协议的网口通讯），可通过虚拟串口的方式进行程序拷贝和监控
+2.总结：触摸屏采用FX串口通讯，程序采用ENET模块通讯（熟练使用Modbus协议）
