@@ -1,0 +1,8 @@
+main task:
+first:  	Robot process about aircyc and EMG and btn_deal
+
+---detail----
+---Robot process---
+1.增加气缸在整个流程中动作，其中优化气缸动作对运动的影响
+2.气缸报警模块增加，开辟一个新的线程判断气缸感应器是否异常，当异常时触发ItErro
+3.启动暂停按钮逻辑完善，当启动按钮按下时复位ItErro变量

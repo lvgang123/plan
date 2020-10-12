@@ -1,0 +1,3 @@
+main work content:
+first:	test and optimize the process of PCB
+sencond:  IPC_process about touch screen
